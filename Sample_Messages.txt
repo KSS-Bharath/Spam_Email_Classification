@@ -1,0 +1,20 @@
+Examples of Spam Messages/Emails
+"Your account has been suspended. Click here to verify immediately."
+"Congratulations! You've won a brand new iPhone. Claim now!"
+"Get a $5000 loan approved instantly. No credit check!"
+"Click here to watch the shocking video before it’s taken down!"
+"Only 2 hours left! Buy 1 get 3 free on all supplements!"
+"Complete this quick survey and win gift cards worth ₹2000."
+"Amazon customer reward: You’ve been selected! Confirm details here."
+"You have a missed call from a lottery center. Call back now to claim."
+
+
+Examples of Not Spam (Ham) Messages/Emails
+"Hi John, attached is the updated project file. Let me know your feedback."
+"Are we still on for the meeting tomorrow at 10 AM?"
+"Your order #98372 has been shipped. Expected delivery: July 2."
+"Reminder: Your class test on NLP is scheduled for Monday."
+"Hey, I’ll be late for dinner. Save me some food!"
+"Good luck for your exam, you’ll do great!"
+"Thank you for your payment of ₹899. Transaction ID: XHS8127."
+"Your phone's battery is low. Please connect your charger."
